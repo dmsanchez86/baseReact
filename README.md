@@ -2,7 +2,7 @@
 
 > Run 
 
-`bash
+```bash
 
 # install
 npm install
@@ -13,4 +13,6 @@ npm start
 # Production
 npm run prod
 
-`
+```
+
+> Open `http://localhost:8080`
